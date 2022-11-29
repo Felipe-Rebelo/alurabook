@@ -1,0 +1,17 @@
+.titulo__mais-vendidos {
+  background-color: var(--branco);
+  color: var(--laranja);
+  font-size: 26px;
+  font-weight: 700;
+  text-align: center;
+  padding: 1em;
+  text-transform: uppercase;
+}
+
+.estrelas {
+  margin-bottom: 1em;
+}
+
+.descricao__imagem-autora {
+  width: 33vw;
+}
